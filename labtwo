@@ -1,0 +1,44 @@
+Exercise 1
+Section 1
+1. x -valid
+2. 56thnumber- not valid
+3. length- valid
+4. !Tayo!- not valid
+5. NUMBER -valid
+6. Android_phone1 -valid
+7. this variable- not valid
+
+section 2
+1. a = False
+2. b = 3.7 - float
+3. c = 'Alex' - str
+4. d = 7 -int
+5. e = 'True' - str
+6. f = 17 - int
+7. g = '17 - syntax error
+8. h = True -bool
+9. i = '3.14159' -str
+10. j = “---add---” - str
+
+Exercise 2
+1. b and c - False
+2. b or c - True
+3. not a and b - True
+4. (a and b) or not c- True
+5. not b and not (a or c)-False
+6. not ((not b or not a) and c ) or a - True
+
+Exercise 3: Data Types in Arithmetic
+1. 5/2 - 2
+2. 5/2.0 -2.5
+3. 5.0/2 -2.5
+4. 7*(1/2) -0
+5. 7* (1/2.0)-3.5
+6. 5 ∗∗2-25
+7. 5.0 ∗ ∗2 -25.0
+8. 5 ∗ ∗2.0 -25.0
+9. 1/3  -0
+10. 1/3.0 -0.3333333333
+
+Exercise 4: User input:
+
